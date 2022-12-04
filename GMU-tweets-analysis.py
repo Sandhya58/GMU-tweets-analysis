@@ -12,10 +12,10 @@ import numpy as np
 
 def run_twitter_etl():
 
-    access_key = "c6O3MQWihE9Ggjp3UcupNVTRI"
-    access_secret = "kFdCCFOO3YKczwh6A7UtAXZ9kIgKTQAjreQK2ZBPbkqFNKYLRL"
-    consumer_key = "1487989599255334914-TLegXdhJXY5m3hKD0kDU7NRJORvgue"
-    consumer_sceret = "pFtqnMkQQE2rziTRWiAcOiDl4TKDAdACm2gIPixUAMyKp"
+    access_key = "you're access_key"
+    access_secret = "you're access_secret"
+    consumer_key = "you're consumer_key"
+    consumer_sceret = "you're consumer_sceret"
 
 
     # Twitter authentication
